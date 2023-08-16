@@ -42,12 +42,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HDLaXl2.webp"},
+  {"desc2":"Step into a world where fantasy and reality converge, where your imagination knows no bounds—welcome to Barvikha RP Mobile","photo2":"https://iili.io/HDL5lwb.webp"},
+  {"desc3":"ultimate destination for immersive role-playing adventures on your mobile device. With breathtaking visuals","photo3":"https://iili.io/HDLahSS.webp"},
+  {"desc4":"captivating storytelling, and boundless opportunities for creativity, Barvikha RP Mobile redefines the way you experience mobile gaming.","photo4":"https://iili.io/HDL50tj.webp"},
+  {"desc5":"Embark on a journey to the mystical realm of Barvikha, a land teeming with magical creatures, hidden treasures, and uncharted territories","photo5":"https://iili.io/HDLawH7.webp"},
+  {"descd":"Every corner of this vast, open world is a canvas for your exploration. Roam through lush forests, ancient ruins, bustling villages, and towering castles","photod":"https://iili.io/HDL57S9.webp"}
    ]
  
 }
